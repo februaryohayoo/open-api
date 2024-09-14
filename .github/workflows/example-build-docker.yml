@@ -5,6 +5,7 @@ on:
     branches:
       - main # or specify any branch you want to trigger this workflow on
 
+
 jobs:
   build-and-push:
     runs-on: ubuntu-latest
